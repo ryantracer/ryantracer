@@ -1,6 +1,6 @@
-## Olá
+## Hey
 
-Me chamo Ryan, sou um entusiasta de tecnologia interessado em código, dados, eletrônica e principalmente nas complexidades oferecidas pela área de cibersegurança, criei este perfil pessoal com a intenção de manter minhas práticas e experimentos com códigos.
+My name is Ryan, i'm anntech enthusiast interested in code, data, electronics and specially cybersecurity, i created this profile in order to maintain and document my codes and experiment practices.
 
 Tech:
 
