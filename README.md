@@ -4,4 +4,4 @@ Me chamo Ryan, sou um entusiasta de tecnologia interessado em código, dados, el
 
 Tech:
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,kali,bash,arduino,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,bash,kali,arduino,html,css,javascript)](https://skillicons.dev)
