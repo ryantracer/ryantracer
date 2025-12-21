@@ -1,6 +1,6 @@
 ## Hey
 
-My name is Ryan, i'm an tech enthusiast interested in code, data, electronics and specially cybersecurity, i created this profile in order to maintain and document my codes and experiment practices.
+My name is Ryan, i'm a tech enthusiast interested in code, data, electronics and specially cybersecurity, i created this profile in order to maintain and document my codes and experiment practices.
 
 Tech:
 
